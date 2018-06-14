@@ -11,7 +11,6 @@ ext{
     libsversion=[
             // App dependencies version
             supportLibraryVersion = "25.3.1",
-
             retrofitVersion = "2.1.0",
             glideVersion = "3.7.0",
             loggerVersion = "1.15",
